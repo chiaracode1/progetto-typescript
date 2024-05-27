@@ -1,4 +1,4 @@
-# Project
+# The Project
 This project is the typescript project of the [start2Impact](https://www.start2impact.it/)'s master.
 
 # MOOVE - The Idea
